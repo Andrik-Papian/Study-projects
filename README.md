@@ -1,1 +1,1 @@
-# verbose-couscous
+# STUDY PROJECTS
